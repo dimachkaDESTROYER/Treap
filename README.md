@@ -1,3 +1,3 @@
 # Treap
-Treap using pascal
+Treap using cmd
 https://youtu.be/dQw4w9WgXcQ
